@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+# Site settings
+title: James Doss-Gollin
+email: jdossgollin@rice.edu
+description: Dr. James Doss-Gollin is an Assistant Professor in the Department of Civil and Environmental Engineering at Rice University
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "jdossgollin.github.io" # the base hostname & protocol for your site
+
+twitter_username: jdossgollin
+github_username: jdossgollin
+
+# Build settings
+markdown: kramdown
