@@ -1,0 +1,50 @@
+---
+title: "James Doss-Gollin"
+image: _assets/img/jdossgollin.jpeg
+
+about:
+  template: trestles
+  links:
+    -   icon: envelope
+        text: Email
+        href: mailto:jdossgollin@rice.edu
+    -   icon: file-pdf
+        text: CV
+        href: https://jdossgollin.github.io/my-cv/Doss-Gollin-CV.pdf
+    -   icon: github
+        text: Github
+        href: https://github.com/jdossgollin
+    -   text: Google Scholar
+        href: https://scholar.google.com/citations?user=6ifLBBsAAAAJ&hl
+    -   text: OrcID
+        href: https://orcid.org/0000-0002-3428-2224
+    -   text: Faculty Profile
+        href: https://profiles.rice.edu/faculty/james-doss-gollin
+    -   text: Doss-Gollin Lab
+        href: https://dossgollinlab.github.io
+        icon: house
+    -   icon: linkedin
+        text: LinkedIN
+        href: https://www.linkedin.com/in/jamesdossgollin
+
+comments: false
+---
+::: {.column-page}
+
+
+I'm James Doss-Gollin, an assistant professor in the Department of Civil and Environmental Engineering at Rice University.
+My research passion lies at the fascinating intersection of climate dynamics, water management, data science, and decision science.
+
+In my work, I tackle challenging questions that arise when these fields converge.
+I'm particularly excited about developing methods to understand and predict spatiotemporally clustered hydroclimate risk.
+Additionally, I'm keen on finding ways to incorporate uncertain projections into sequential decision problems.
+Through these efforts, I aim to contribute to the provision of flexible and resilient infrastructure services.
+
+As an educator, I have the privilege of teaching courses that equip the next generation with the skills to address our changing world.
+
+Before joining Rice CEVE, I had the opportunity to work as a postdoctoral researcher in the Earth and Environmental Systems Institute at Pennsylvania State University and as a PhD student in Earth and Environmental Engineering at Columbia University.
+
+## Research
+
+For publications, teaching, and research projects, please see [the Doss-Gollin Lab website](https://dossgollinlab.github.io).
+:::

@@ -1,0 +1,24 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+
+website:
+  title: "James Doss-Gollin"
+  site-url: https://jdossgolling.github.io
+  description: "Climate Risk"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@jdossgollin"
+  search: false
+
+  page-footer:
+    left: |
+      View the source [on GitHub](https://github.com/jdossgollin/jdossgollin.github.io)
+
+format:
+  html:
+    theme: [sandstone, _assets/scss/_variables.scss]
+    css: _assets/css/styles.css
