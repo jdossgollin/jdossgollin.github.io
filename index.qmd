@@ -45,7 +45,6 @@ I also hold a BS in Mechanical Engineering from Yale.
 I grew up in New Haven, CT.
 I'm a proud alum of Wilbur Cross and a New Haven Promise scholar, and will staunchly defend the superiority of *apizza*.
 Outside of work, I'm a husband and father of two. I love playing and watching soccer (*Forza Roma! Dale Albirroja!*) and exploring Houston's food and culture with my family.
-I'm deeply committed to making academia a supportive space for parents and caregivers.
 
 ## Español
 
@@ -53,7 +52,7 @@ I'm deeply committed to making academia a supportive space for parents and careg
 Soy profesor asistente en el [Departamento de Ingeniería Civil y Ambiental](https://cee.rice.edu/) de Rice University.
 
 Los sistemas de infraestructura enfrentan crecientes presiones financieras, sociales y climáticas.
-En respuesta, las ciudades han buscado complementar la infraestructura centralizada tradicional ("gris") con soluciones más descentralizadas, adaptativas, basadas en la naturaleza o financieras.
+En respuesta, las ciudades han buscado complementar la infraestructura centralizada con soluciones más descentralizadas, adaptativas, basadas en la naturaleza o financieras.
 Un desafío clave es entender cómo combinar estas intervenciones a lo largo del tiempo para hacer más resilientes la infraestructura de agua, energía y transporte, y las comunidades que dependen de ella.
 Para lograrlo, desarrollo métodos físicos y estadísticos ("IA") para comprender las características de los peligros meteorológicos y climáticos, e identificar estrategias de adaptación que cumplan múltiples objetivos en una amplia gama de futuros posibles.
 
@@ -61,24 +60,23 @@ En Rice, lidero la iniciativa [IA para la Resiliencia Urbana](https://ai4urbanre
 Imparto cursos sobre [gestión del riesgo climático](https://ceve-421-521.github.io/) y [ciencia de datos para la evaluación de peligros hidroclimáticos](https://ceve543.github.io/).
 Aunque gran parte de mi trabajo actual aborda desafíos en la Costa del Golfo de Texas, me enfoco en desarrollar herramientas de código abierto diseñadas para escalar a sistemas de infraestructura en todo el mundo.
 
-Tengo un interés profundo en los desafíos hídricos de América Latina. Trabajé anteriormente en Asunción con la Fundación Paraguaya y he publicado investigaciones sobre la variabilidad de las precipitaciones en el Cono Sur.
+Tengo un profundo interés por los desafíos hídricos de América Latina. Trabajé anteriormente en Asunción con la Fundación Paraguaya y he publicado investigaciones sobre la variabilidad de las precipitaciones en el Cono Sur.
 
 Antes de Rice, fui postdoc en el [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) de Penn State con [Klaus Keller](https://keller-lab.github.io/).
 Obtuve mi maestría y doctorado en Columbia como parte del [Columbia Water Center](https://water.columbia.edu/), bajo la dirección de [Upmanu Lall](https://www.columbia.edu/~ula2/).
-También tengo una licenciatura en Ingeniería Mecánica de Yale.
+También tengo una licenciatura en ingeniería mecánica de Yale.
 
 Crecí en New Haven, CT.
 Soy un orgulloso exalumno de Wilbur Cross y becario de New Haven Promise, y defenderé firmemente la superioridad de la *apizza*.
 Fuera del trabajo, soy esposo y padre de dos hijos. Me encanta jugar y ver fútbol (*¡Forza Roma! ¡Dale Albirroja!*) y explorar la gastronomía y cultura de Houston con mi familia.
-Estoy profundamente comprometido con hacer de la academia un espacio de apoyo para padres y cuidadores.
 
 ## Português
 
 **Olá!**
 Sou professor assistente no [Departamento de Engenharia Civil e Ambiental](https://cee.rice.edu/) da Rice University.
 
-Os sistemas de infraestrutura enfrentam crescentes pressões financeiras, sociais e climáticas.
-Em resposta, as cidades têm buscado complementar a infraestrutura centralizada tradicional ("cinza") com soluções mais descentralizadas, adaptativas, baseadas na natureza ou financeiras.
+Os sistemas de infraestrutura enfrentam pressões financeiras, sociais e climáticas crescentes.
+Em resposta, as cidades têm buscado complementar a infraestrutura tradicional centralizada com soluções mais descentralizadas, adaptativas, baseadas na natureza ou financeiras.
 Um desafio central é entender como combinar essas intervenções ao longo do tempo para tornar mais resilientes a infraestrutura de água, energia e transporte, e as comunidades que dependem dela.
 Para isso, desenvolvo métodos físicos e estatísticos ("IA") para compreender as características dos perigos meteorológicos e climáticos, e identificar estratégias de adaptação que atendam múltiplos objetivos em uma ampla gama de futuros possíveis.
 
@@ -86,16 +84,15 @@ Na Rice, lidero a iniciativa [IA para Resiliência Urbana](https://ai4urbanresil
 Leciono cursos sobre [gestão de risco climático](https://ceve-421-521.github.io/) e [ciência de dados para avaliação de perigos hidroclimáticos](https://ceve543.github.io/).
 Embora grande parte do meu trabalho atual aborde desafios na Costa do Golfo do Texas, meu foco é desenvolver ferramentas de código aberto projetadas para escalar a sistemas de infraestrutura em todo o mundo.
 
-Tenho uma forte ligação com o Brasil e os desafios hídricos da região. Atuei como pesquisador visitante na Universidade Federal do Ceará (UFC) em Fortaleza e mantenho colaborações ativas sobre seca e gestão de água no semiárido.
+Tenho uma forte ligação com o Brasil e com os desafios hídricos da região. Atuei como pesquisador visitante na Universidade Federal do Ceará (UFC), em Fortaleza, e mantenho colaborações ativas sobre seca e gestão de água no semiárido.
 
 Antes da Rice, fui pós-doc no [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) da Penn State com [Klaus Keller](https://keller-lab.github.io/).
-Obtive meu mestrado e doutorado na Columbia como parte do [Columbia Water Center](https://water.columbia.edu/), orientado por [Upmanu Lall](https://www.columbia.edu/~ula2/).
-Também tenho bacharelado em Engenharia Mecânica por Yale.
+Obtive meu mestrado e doutorado na Columbia, como parte do [Columbia Water Center](https://water.columbia.edu/), sob orientação de [Upmanu Lall](https://www.columbia.edu/~ula2/).
+Também tenho bacharelado em Engenharia Mecânica pela Yale.
 
 Cresci em New Haven, CT.
 Sou um ex-aluno orgulhoso da Wilbur Cross e bolsista do New Haven Promise, e defenderei firmemente a superioridade da *apizza*.
 Fora do trabalho, sou marido e pai de dois filhos. Adoro jogar e assistir futebol (*Forza Roma! Dale Albirroja!*) e explorar a gastronomia e cultura de Houston com minha família.
-Estou profundamente comprometido em fazer da academia um espaço de apoio para pais e cuidadores.
 :::
 
 :::
