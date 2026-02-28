@@ -19,7 +19,10 @@ comments: false
 ## The Doss-Gollin Lab
 For publications, data, and open positions, visit my research group website.
 
+::: {.d-flex .gap-2 .flex-wrap}
 [**Visit the Lab Website →**](https://dossgollin-lab.github.io){.btn .btn-primary role="button"}
+[**Download CV →**](https://jdossgollin.github.io/my-cv/Doss-Gollin-CV.pdf){.btn .btn-primary role="button"}
+:::
 :::
 
 ::: {.panel-tabset}
@@ -29,70 +32,70 @@ For publications, data, and open positions, visit my research group website.
 **Hello!**
 I'm an assistant professor in the [Department of Civil and Environmental Engineering](https://cee.rice.edu/) at Rice University.
 
-Infrastructure systems face growing financial, social, and climate stressors.
-In response, cities have sought to support traditional centralized "gray" infrastructure with solutions that are more decentralized, adaptive, nature-based, or financial.
-A key challenge is understanding how to combine these interventions over time to make water, energy, and transportation infrastructure—and the communities that rely on them—more resilient.
-To achieve this, I develop physical and statistical ("AI") methods to understand the characteristics of weather and climate hazards, and to identify adaptation strategies that meet multiple objectives across a wide range of possible futures.
+### Short Bio
 
-At Rice, I lead the [AI for Urban Resilience](https://ai4urbanresilience.rice.edu/) initiative and am affiliated with the [SSPEED Center](https://sspeed.rice.edu/).
+James Doss-Gollin is an Assistant Professor in the Department of Civil and Environmental Engineering at Rice University.
+His research integrates earth science, probabilistic methods, machine learning, and systems analysis to help communities and infrastructure systems manage evolving climate risks.
+Current projects include graph neural networks for flood emulation, flood resilience planning with rural Texas communities, and updated rainfall frequency estimates for the State of Texas.
+He leads the Cluster for AI for Climate Risk and Urban Resilience at the Ken Kennedy Institute and is a member of the Consortium for Enhancing Resilience and Catastrophe Modeling (CERCat).
+Before joining Rice, James was a postdoctoral researcher at Pennsylvania State University; he earned his PhD from Columbia University and his BS from Yale University.
+
+### Longer Bio
+
+I grew up in New Haven, CT, surrounded by the challenges and possibilities of aging urban infrastructure.
+My interests in renewable energy motivated me to study mechanical engineering at Yale, but projects with [EWB-Yale](https://ewb.sites.yale.edu/projects/roh-cameroon), [Fundación Paraguaya](https://www.fundacionparaguaya.org.py/), and [UFC Pós-DEHA](https://www.posdeha.ufc.br/) on rural water security sparked my interest in climate risk and infrastructure resilience.
+
+I earned my MS and PhD at Columbia as part of the [Columbia Water Center](https://water.columbia.edu/), advised by [Upmanu Lall](https://www.columbia.edu/~ula2/), building data-driven models of rainfall and climate hazards.
+As a postdoc at Penn State's [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) with [Klaus Keller](https://keller-lab.github.io/), I worked on decision-support tools for communities managing flood risks.
+
+I joined Rice in 2021.
+Houston is a wonderful testbed for this work — massive port, rapid sea level rise, sprawling city, strained grid, chronic flooding.
+My group uses AI and statistics to better understand climate risks, particularly flooding and rainfall, and to inform adaptation decisions.
+At Rice, I lead the [Cluster for AI for Climate Risk and Urban Resilience](https://ai4urbanresilience.rice.edu/) at the Ken Kennedy Institute and am affiliated with the [SSPEED Center](https://sspeed.rice.edu/) and the [Consortium for Enhancing Resilience and Catastrophe Modeling (CERCat)](https://www.catmodeling.org/).
 I teach courses on [climate risk management](https://ceve-421-521.github.io/) and [data science for hydroclimate hazard assessment](https://ceve543.github.io/).
-While much of my current work addresses challenges on the Texas Gulf Coast, I focus on building open-source tools designed to scale to infrastructure systems worldwide.
 
-Before Rice, I was a postdoc at Penn State's [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) with [Klaus Keller](https://keller-lab.github.io/).
-I earned my MS and PhD at Columbia as part of the [Columbia Water Center](https://water.columbia.edu/), advised by [Upmanu Lall](https://www.columbia.edu/~ula2/).
-I also hold a BS in Mechanical Engineering from Yale.
-
-I grew up in New Haven, CT.
-I'm a proud alum of Wilbur Cross and a New Haven Promise scholar, and will staunchly defend the superiority of *apizza*.
-Outside of work, I'm a husband and father of two. I love playing and watching soccer (*Forza Roma! Dale Albirroja!*) and exploring Houston's food and culture with my family.
+I'm a proud alum of [Wilbur Cross](https://wilburcross.nhps.net/) and a [New Haven Promise](https://newhavenpromise.org/) scholar, and will staunchly defend the superiority of *apizza*.
+Outside of work, I enjoy playing and watching soccer (*Forza Roma! Dale Albirroja!*) and exploring Houston's food and playgrounds with my family.
 
 ## Español
 
 **¡Hola!**
 Soy profesor asistente en el [Departamento de Ingeniería Civil y Ambiental](https://cee.rice.edu/) de Rice University.
 
-Los sistemas de infraestructura enfrentan crecientes presiones financieras, sociales y climáticas.
-En respuesta, las ciudades han buscado complementar la infraestructura centralizada con soluciones más descentralizadas, adaptativas, basadas en la naturaleza o financieras.
-Un desafío clave es entender cómo combinar estas intervenciones a lo largo del tiempo para hacer más resilientes la infraestructura de agua, energía y transporte, y las comunidades que dependen de ella.
-Para lograrlo, desarrollo métodos físicos y estadísticos ("IA") para comprender las características de los peligros meteorológicos y climáticos, e identificar estrategias de adaptación que cumplan múltiples objetivos en una amplia gama de futuros posibles.
+Crecí en New Haven, CT, rodeado de los desafíos y las posibilidades de una infraestructura urbana envejecida.
+Mi interés en las energías renovables me motivó a estudiar ingeniería mecánica en Yale, pero proyectos con [EWB-Yale](https://ewb.sites.yale.edu/projects/roh-cameroon), [Fundación Paraguaya](https://www.fundacionparaguaya.org.py/) y [UFC Pós-DEHA](https://www.posdeha.ufc.br/) sobre seguridad hídrica rural despertaron mi interés en el riesgo climático y la resiliencia de infraestructura.
 
-En Rice, lidero la iniciativa [IA para la Resiliencia Urbana](https://ai4urbanresilience.rice.edu/) y estoy afiliado al [Centro SSPEED](https://sspeed.rice.edu/).
-Imparto cursos sobre [gestión del riesgo climático](https://ceve-421-521.github.io/) y [ciencia de datos para la evaluación de peligros hidroclimáticos](https://ceve543.github.io/).
-Aunque gran parte de mi trabajo actual aborda desafíos en la Costa del Golfo de Texas, me enfoco en desarrollar herramientas de código abierto diseñadas para escalar a sistemas de infraestructura en todo el mundo.
+Obtuve mi maestría y doctorado en Columbia como parte del [Columbia Water Center](https://water.columbia.edu/), bajo la dirección de [Upmanu Lall](https://www.columbia.edu/~ula2/), modelando la precipitación y los riesgos climáticos.
+Como postdoc en el [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) de Penn State con [Klaus Keller](https://keller-lab.github.io/), trabajé con comunidades que gestionan riesgos de inundación.
 
-Tengo un profundo interés por los desafíos hídricos de América Latina. Trabajé anteriormente en Asunción con la Fundación Paraguaya y he publicado investigaciones sobre la variabilidad de las precipitaciones en el Cono Sur.
+Me incorporé a Rice en 2021.
+Houston es un laboratorio fascinante para este trabajo: puerto enorme, aumento rápido del nivel del mar, ciudad en expansión, red eléctrica bajo presión, inundaciones crónicas.
+Mi grupo utiliza IA y estadística para comprender mejor los riesgos climáticos, particularmente las inundaciones y la precipitación, e informar decisiones de adaptación.
+En Rice, lidero el [Cluster de IA para Riesgo Climático y Resiliencia Urbana](https://ai4urbanresilience.rice.edu/) en el Ken Kennedy Institute y estoy afiliado al [Centro SSPEED](https://sspeed.rice.edu/) y al [Consorcio para Mejorar la Resiliencia y Modelado de Catástrofes (CERCat)](https://www.catmodeling.org/).
+Imparto cursos sobre [gestión del riesgo climático](https://ceve-421-521.github.io/) y [ciencia de datos para la evaluación de riesgos hidroclimáticos](https://ceve543.github.io/).
 
-Antes de Rice, fui postdoc en el [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) de Penn State con [Klaus Keller](https://keller-lab.github.io/).
-Obtuve mi maestría y doctorado en Columbia como parte del [Columbia Water Center](https://water.columbia.edu/), bajo la dirección de [Upmanu Lall](https://www.columbia.edu/~ula2/).
-También tengo una licenciatura en ingeniería mecánica de Yale.
-
-Crecí en New Haven, CT.
-Soy un orgulloso exalumno de Wilbur Cross y becario de New Haven Promise, y defenderé firmemente la superioridad de la *apizza*.
-Fuera del trabajo, soy esposo y padre de dos hijos. Me encanta jugar y ver fútbol (*¡Forza Roma! ¡Dale Albirroja!*) y explorar la gastronomía y cultura de Houston con mi familia.
+Soy un orgulloso exalumno de [Wilbur Cross](https://wilburcross.nhps.net/) y becario de [New Haven Promise](https://newhavenpromise.org/), y defenderé firmemente la superioridad de la *apizza*.
+Fuera del trabajo, disfruto jugar y ver fútbol (*¡Forza Roma! ¡Dale Albirroja!*) y explorar la gastronomía y los parques de Houston con mi familia.
 
 ## Português
 
 **Olá!**
 Sou professor assistente no [Departamento de Engenharia Civil e Ambiental](https://cee.rice.edu/) da Rice University.
 
-Os sistemas de infraestrutura enfrentam pressões financeiras, sociais e climáticas crescentes.
-Em resposta, as cidades têm buscado complementar a infraestrutura tradicional centralizada com soluções mais descentralizadas, adaptativas, baseadas na natureza ou financeiras.
-Um desafio central é entender como combinar essas intervenções ao longo do tempo para tornar mais resilientes a infraestrutura de água, energia e transporte, e as comunidades que dependem dela.
-Para isso, desenvolvo métodos físicos e estatísticos ("IA") para compreender as características dos perigos meteorológicos e climáticos, e identificar estratégias de adaptação que atendam múltiplos objetivos em uma ampla gama de futuros possíveis.
+Cresci em New Haven, CT, cercado pelos desafios e possibilidades de uma infraestrutura urbana envelhecida.
+Meu interesse em energias renováveis me levou a estudar engenharia mecânica em Yale, mas projetos com [EWB-Yale](https://ewb.sites.yale.edu/projects/roh-cameroon), [Fundación Paraguaya](https://www.fundacionparaguaya.org.py/) e [UFC Pós-DEHA](https://www.posdeha.ufc.br/) sobre segurança hídrica rural despertaram meu interesse em risco climático e resiliência de infraestrutura.
 
-Na Rice, lidero a iniciativa [IA para Resiliência Urbana](https://ai4urbanresilience.rice.edu/) e sou afiliado ao [SSPEED Center](https://sspeed.rice.edu/).
-Leciono cursos sobre [gestão de risco climático](https://ceve-421-521.github.io/) e [ciência de dados para avaliação de perigos hidroclimáticos](https://ceve543.github.io/).
-Embora grande parte do meu trabalho atual aborde desafios na Costa do Golfo do Texas, meu foco é desenvolver ferramentas de código aberto projetadas para escalar a sistemas de infraestrutura em todo o mundo.
+Obtive meu mestrado e doutorado na Columbia como parte do [Columbia Water Center](https://water.columbia.edu/), orientado por [Upmanu Lall](https://www.columbia.edu/~ula2/), modelando a precipitação e os riscos climáticos.
+Como pós-doc no [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) da Penn State com [Klaus Keller](https://keller-lab.github.io/), trabalhei com comunidades que gerenciam riscos de inundação.
 
-Tenho uma forte ligação com o Brasil e com os desafios hídricos da região. Atuei como pesquisador visitante na Universidade Federal do Ceará (UFC), em Fortaleza, e mantenho colaborações ativas sobre seca e gestão de água no semiárido.
+Ingressei na Rice em 2021.
+Houston é um laboratório fascinante para esse trabalho: porto enorme, elevação rápida do nível do mar, cidade em expansão, rede elétrica sob pressão, inundações crônicas.
+Meu grupo utiliza IA e estatística para compreender melhor os riscos climáticos, particularmente inundações e precipitação, e informar decisões de adaptação.
+Na Rice, lidero o [Cluster de IA para Risco Climático e Resiliência Urbana](https://ai4urbanresilience.rice.edu/) no Ken Kennedy Institute e sou afiliado ao [SSPEED Center](https://sspeed.rice.edu/) e ao [Consórcio para Fortalecimento da Resiliência e Modelagem de Catástrofes (CERCat)](https://www.catmodeling.org/).
+Leciono cursos sobre [gestão de risco climático](https://ceve-421-521.github.io/) e [ciência de dados para avaliação de riscos hidroclimáticos](https://ceve543.github.io/).
 
-Antes da Rice, fui pós-doc no [Earth and Environmental Systems Institute](https://www.eesi.psu.edu/) da Penn State com [Klaus Keller](https://keller-lab.github.io/).
-Obtive meu mestrado e doutorado na Columbia, como parte do [Columbia Water Center](https://water.columbia.edu/), sob orientação de [Upmanu Lall](https://www.columbia.edu/~ula2/).
-Também tenho bacharelado em Engenharia Mecânica pela Yale.
-
-Cresci em New Haven, CT.
-Sou um ex-aluno orgulhoso da Wilbur Cross e bolsista do New Haven Promise, e defenderei firmemente a superioridade da *apizza*.
-Fora do trabalho, sou marido e pai de dois filhos. Adoro jogar e assistir futebol (*Forza Roma! Dale Albirroja!*) e explorar a gastronomia e cultura de Houston com minha família.
+Sou um ex-aluno orgulhoso da [Wilbur Cross](https://wilburcross.nhps.net/) e bolsista do [New Haven Promise](https://newhavenpromise.org/), e defenderei firmemente a superioridade da *apizza*.
+Fora do trabalho, gosto de jogar e assistir futebol (*Forza Roma! Dale Albirroja! Vai Canarinho!*) e explorar a gastronomia e os parquinhos de Houston com minha família.
 :::
 
 :::
