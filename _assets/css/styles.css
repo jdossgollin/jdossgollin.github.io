@@ -18,12 +18,23 @@
 .btn-primary {
   background-color: var(--rice-blue);
   border-color: var(--rice-blue);
-  margin-top: 10px;
   font-weight: 600;
 }
 
 .btn-primary:hover {
   background-color: #003380;
+}
+
+/* Outline Button (CV) */
+.btn-outline-primary {
+  color: var(--rice-blue);
+  border-color: var(--rice-blue);
+  font-weight: 600;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--rice-blue);
+  color: white;
 }
 
 /* Headers in Rice Blue */
